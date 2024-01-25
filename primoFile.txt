@@ -1,2 +1,5 @@
 AAAAA
 BBBBBB
+nuova funzionalità
+ultime modifiche
+Nuova Release
